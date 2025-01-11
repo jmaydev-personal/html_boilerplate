@@ -1,1 +1,1 @@
-# html_boilerplate
+# Reference for HTML boilerplate
